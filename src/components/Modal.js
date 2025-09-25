@@ -17,7 +17,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>⏰ Schedule:</h4>
       <p>📅 October 15, 2025<br/>🕘 9:30 AM - 10:30 AM<br/>📍 Main Auditorium, VNR VJIET</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Raghava - 9XXXXXXXXXX<br/>🎯 Praneeth - 9XXXXXXXXXX</p>`,
+      <p>🎯 Raghava - 9059494181<br/>🎯 Sreshta - 9966713666</p>`,
       description: 'Join us for the grand inauguration of VigilantX 2025! Get ready for an inspiring start to the biggest cybersecurity event of the year.'
     },
     'non-cyber-ctf': {
@@ -39,7 +39,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹5,000<br/>🥇 1st Prize: ₹2,500<br/>🥈 2nd Prize: ₹1,500<br/>🥉 3rd Prize: ₹1,000<br/>👥 Winners - 3 Teams</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Raghava - 9XXXXXXXXXX<br/>🎯 Praneeth - 9XXXXXXXXXX</p>`,
+      <p>🎯 Raghava - 9059494181<br/>🎯 Praneeth - 9550722677</p>`,
       description: 'Test your analytical and creative thinking skills with brain-teasing logic puzzles, mathematical challenges, and innovative problem-solving scenarios.'
     },
     'seminar-docker': {
@@ -60,7 +60,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <p>📅 October 15, 2025<br/>🕙 10:30 AM - 1:30 PM<br/>📍 Seminar Hall, VNR VJIET</p>
   
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Yeshaswini - 9XXXXXXXXXX<br/>🎯 Hemalatha - 9XXXXXXXXXX<br/>🎯 CK - 9XXXXXXXXXX</p>`,
+      <p>🎯 Yeshaswini - 9908613869<br/>🎯 Hemalatha - 9059623204<br/>🎯 Chandra Shekar - 8328202404</p>`,
       description: 'Comprehensive seminar on containerization technologies with Docker and Kubernetes orchestration. Learn from industry experts about modern DevOps practices.'
     },
     'paper-presentation': {
@@ -78,7 +78,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹4,000<br/>👥 Winners - 4 Teams<br/>🎯 1 Domain - ₹1,000 Each</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Pratham - 9XXXXXXXXXX<br/>🎯 Chandu - 9XXXXXXXXXX</p>`,
+      <p>🎯 Vaishnavi - 9108134359<br/>🎯 Chakri - 7671097946</p>`,
       description: 'Present your innovative research on cutting-edge technologies. Share your insights with industry experts and fellow enthusiasts.'
     },
     'hacking-expo': {
@@ -98,7 +98,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>⏰ Schedule:</h4>
       <p>📅 October 16, 2025<br/>🕙 10:00 AM - 4:30 PM<br/>📍 Tech Lab, VNR VJIET</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Sreshta - 9XXXXXXXXXX<br/>🎯 Haarika - 9XXXXXXXXXX</p>`,
+      <p>🎯 Ch. Sushanth - 9441570117<br/>🎯 Harsha - 8019252777</p>`,
       description: 'Discover the latest in cybersecurity tools and techniques through live demonstrations by security experts. Get hands-on experience with professional-grade tools.'
     },
     'bug-bounty': {
@@ -120,7 +120,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹3,500<br/>👥 Winners - 2 Teams<br/>🥇 1st Prize: ₹2,000<br/>🥈 2nd Prize: ₹1,500</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Sreshta - 9XXXXXXXXXX<br/>🎯 Haarika - 9XXXXXXXXXX</p>`,
+      <p>🎯 Sushanth - 8919652145<br/>🎯 Lalith - 8500283828</p>`,
       description: 'Discover vulnerabilities, exploit systems ethically, and demonstrate advanced red team methodologies in a controlled environment.'
     },
     'cyber-hunt': {
@@ -142,7 +142,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹5,000<br/>👥 Winners - 3 Teams<br/>🥇 1st Prize: ₹2,500<br/>🥈 2nd Prize: ₹1,500<br/>🥉 3rd Prize: ₹1,000</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Tilak - 9XXXXXXXXXX<br/>🎯 Akshith - 9XXXXXXXXXX</p>`,
+      <p>🎯 Pratham - 9381665353<br/>🎯 Chandu - 7036541434</p>`,
       description: 'Embark on a digital treasure hunt with cryptographic puzzles, OSINT challenges, and cybersecurity clues scattered across the digital realm.'
     },
     'workshop': {
@@ -162,7 +162,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>⏰ Schedule:</h4>
       <p>📅 October 17, 2025<br/>🕘 9:30 AM - 12:30 PM<br/>📍 Workshop Hall, VNR VJIET</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Yeshaswini - 9XXXXXXXXXX<br/>🎯 Hemalatha - 9XXXXXXXXXX<br/>🎯 CK - 9XXXXXXXXXX</p>`,
+      <p>🎯 Yeshaswini - 9908613869<br/>🎯 Hemalatha - 9059623204<br/>🎯 Chandra Shekar - 8328202404</p>`,
       description: 'Comprehensive hands-on blockchain security and containerization workshop with expert guidance. Learn cutting-edge technologies and security practices.'
     },
     'game-of-threats': {
@@ -184,7 +184,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹3,000<br/>👥 Winners - 2 Teams<br/>🥇 1st Prize: ₹2,000<br/>🥈 2nd Prize: ₹1,000</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Yeshaswini - 9XXXXXXXXXX<br/>🎯 Hemalatha - 9XXXXXXXXXX<br/>🎯 CK - 9XXXXXXXXXX</p>`,
+      <p>🎯 Sreshta - 9966713666<br/>🎯 Haarika - 6302764629<br/></p>`,
       description: 'Strategic cybersecurity simulation game with real-world threat scenarios and defense strategies. Test your incident response skills.'
     },
     'debugging-contest': {
@@ -206,7 +206,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>🏆 Prize Pool:</h4>
       <p>💰 Total Prize Pool: ₹3,500<br/>👥 Winners - 3 Teams<br/>🥇 1st Prize: ₹2,000<br/>🥈 2nd Prize: ₹1,000</p>
       <h4>👥 Student Coordinators:</h4>
-      <p>🎯 Tilak - 9XXXXXXXXXX<br/>🎯 Akshith - 9XXXXXXXXXX</p>`,
+      <p>🎯 Tilak - 9182567516<br/>🎯 Akshith - 9603839570</p>`,
       description: 'Identify and fix critical bugs in security-sensitive code with time-pressure challenges. Test your debugging skills under pressure.'
     },
     'valedictory': {
@@ -228,7 +228,7 @@ const Modal = ({ show, onClose, type, eventType, onRegister }) => {
       <h4>💰 Total Prize Pool:</h4>
       <p>Over ₹30,000+ in cash prizes and exciting goodies await the winners!</p>
       <h4>👥 Organized by:</h4>
-      <p>🎯 Core Team - VigilantX 2025</p>`,
+      <p>🎯 Haarika - 6302764629<br/>🎯 Pratham - 9381665353</p>`,
       description: 'Grand finale of VigilantX 2025 with prize distribution and celebration of achievements. Join us for the closing celebration.'
     }
   };
