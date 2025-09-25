@@ -10,12 +10,12 @@ const WhyParticipate = () => {
           <div className="h-card" data-index="1">
             <div className="h-card-icon">🏆</div>
             <h3>Prize Pool ₹30,000+</h3>
-            <p>Compete for exciting cash prizes and internship opportunities</p>
+            <p>Compete for exciting cash prizes</p>
           </div>
           <div className="h-card" data-index="2">
             <div className="h-card-icon">🔐</div>
             <h3>Real-World Skills</h3>
-            <p>Gain practical experience in penetration testing and forensics</p>
+            <p>Gain practical experience in penetration testing</p>
           </div>
           <div className="h-card" data-index="3">
             <div className="h-card-icon">🌐</div>
@@ -33,12 +33,12 @@ const WhyParticipate = () => {
           <div className="h-card" data-index="1">
             <div className="h-card-icon">🏆</div>
             <h3>Prize Pool ₹30,000+</h3>
-            <p>Compete for exciting cash prizes and internship opportunities</p>
+            <p>Compete for exciting cash prizes</p>
           </div>
           <div className="h-card" data-index="2">
             <div className="h-card-icon">🔐</div>
             <h3>Real-World Skills</h3>
-            <p>Gain practical experience in penetration testing and forensics</p>
+            <p>Gain practical experience in penetration testing</p>
           </div>
           <div className="h-card" data-index="3">
             <div className="h-card-icon">🌐</div>
