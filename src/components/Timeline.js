@@ -64,7 +64,7 @@ const Timeline = () => {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3 style={{color: '#0ff', marginBottom: '15px'}}>DAY 1 - Opening Ceremony</h3>
-            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 15, 2025 | 9:30 AM</p>
+            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 23, 2025 | 9:30 AM</p>
             <p>Grand inauguration with keynote speeches from cybersecurity leaders, event briefings, and networking opportunities.</p>
           </div>
         </div>
@@ -73,7 +73,7 @@ const Timeline = () => {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3 style={{color: '#0ff', marginBottom: '15px'}}>DAY 1 - Competitive Events Begin</h3>
-            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 15, 2025 | 10:00 AM - 4:30 PM</p>
+            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 23, 2025 | 10:00 AM - 4:30 PM</p>
             <p>Non-Cyber CTF challenges and Paper Presentations kick off the competition along with Seminar on Docker/Kubernetes.</p>
           </div>
         </div>
@@ -82,7 +82,7 @@ const Timeline = () => {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3 style={{color: '#0ff', marginBottom: '15px'}}>DAY 2 - Hacking & Security</h3>
-            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 16, 2025 | 10:00 AM - 4:30 PM</p>
+            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 24, 2025 | 10:00 AM - 4:30 PM</p>
             <p>Hacking Tools Expo, Cyber Hunt, Bug Bounty & Red Teaming competitions with live demonstrations and expert guidance.</p>
           </div>
         </div>
@@ -91,7 +91,7 @@ const Timeline = () => {
           <div className="timeline-dot"></div>
           <div className="timeline-content">
             <h3 style={{color: '#0ff', marginBottom: '15px'}}>DAY 3 - Workshops & Finals</h3>
-            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 17, 2025 | 9:30 AM - 3:30 PM</p>
+            <p style={{color: '#f0f', fontWeight: 'bold'}}>October 25, 2025 | 9:30 AM - 3:30 PM</p>
             <p>Blockchain workshops, Game of Threats, Cyber Coding contests, and grand finale ceremony.</p>
           </div>
         </div>
