@@ -1256,18 +1256,18 @@ animation-play-state:running;
     
     .countdown-container {
         flex-direction: column;
-        gap: 15px;
+        gap: 10px;
     }
     
     .countdown-timer {
-        gap: 15px;
+        gap: 10px;
         padding: 10px 15px;
     }
     
     .countdown-number {
         font-size: 2rem;
-        min-width: 50px;
-        padding: 8px 12px;
+        min-width: 40px;
+        padding: 8px 10px;
     }
     
     .countdown-label {
