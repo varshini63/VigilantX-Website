@@ -7,17 +7,17 @@ const Events = ({ onShowEventDetails }) => {
       <div className="events-grid">
         <div className="event-card special-event" onClick={() => onShowEventDetails('opening')}>
           <span className="event-day">Day 1</span>
-          <h3 className="event-title">Opening Ceremony</h3>
-          <p className="event-time">10:00 AM - 12:00 PM</p>
+          <h3 className="event-title">Inauguration Ceremony</h3>
+          <p className="event-time">9:30 AM - 10:30 AM</p>
           <p className="event-description">Keynote speeches from industry leaders and event inauguration with live demonstrations</p>
           <button className="event-register">View Details</button>
         </div>
         
         <div className="event-card" onClick={() => onShowEventDetails('non-cyber-ctf')}>
           <span className="event-day">Day 1</span>
-          <h3 className="event-title">Non-Cyber CTF</h3>
+          <h3 className="event-title">CTF</h3>
           <p className="event-time">10:00 AM - 4:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹5,000</p>
+          <p className="event-prize">Prize Pool: ₹6,000</p>
           <p className="event-description">Brain-teasing logic puzzles, mathematical challenges, and creative problem-solving riddles</p>
           <button className="event-register">Register</button>
         </div>
@@ -31,9 +31,9 @@ const Events = ({ onShowEventDetails }) => {
         
         <div className="event-card" onClick={() => onShowEventDetails('paper-presentation')}>
           <span className="event-day">Day 1</span>
-          <h3 className="event-title">Patent Paper Presentation</h3>
+          <h3 className="event-title">Idea Presentation</h3>
           <p className="event-time">1:30 PM - 3:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹4,000</p>
+          <p className="event-prize">Prize Pool: ₹3,000</p>
           <p className="event-description">Present your innovative research on cutting-edge cybersecurity topics and emerging threats</p>
           <button className="event-register">Register</button>
         </div>
@@ -48,9 +48,9 @@ const Events = ({ onShowEventDetails }) => {
 
         <div className="event-card" onClick={() => onShowEventDetails('bug-bounty')}>
           <span className="event-day">Day 2</span>
-          <h3 className="event-title">Bug Bounty & Red Teaming</h3>
+          <h3 className="event-title">Bug Bounty</h3>
           <p className="event-time">10:00 AM - 12:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹3,500</p>
+          <p className="event-prize">Prize Pool: ₹4,500</p>
           <p className="event-description">Discover vulnerabilities, exploit systems ethically, and demonstrate advanced red team methodologies</p>
           <button className="event-register">Register</button>
         </div>
@@ -59,7 +59,7 @@ const Events = ({ onShowEventDetails }) => {
           <span className="event-day">Day 2</span>
           <h3 className="event-title">Cyber Hunt</h3>
           <p className="event-time">2:00 PM - 4:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹5,000</p>
+          <p className="event-prize">Prize Pool: ₹2,500</p>
           <p className="event-description">Digital treasure hunt with cryptographic puzzles, OSINT challenges, and cybersecurity clues</p>
           <button className="event-register">Register</button>
         </div>
@@ -77,8 +77,8 @@ const Events = ({ onShowEventDetails }) => {
         <div className="event-card" onClick={() => onShowEventDetails('game-of-threats')}>
           <span className="event-day">Day 3</span>
           <h3 className="event-title">Game of Threats</h3>
-          <p className="event-time">10:00 AM - 4:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹3,000</p>
+          <p className="event-time">10:00 AM - 3:00 PM</p>
+          <p className="event-prize">Prize Pool: ₹2,500</p>
           <p className="event-description">Strategic cybersecurity simulation game with real-world threat scenarios and defense strategies</p>
           <button className="event-register">Register</button>
         </div>
@@ -87,7 +87,7 @@ const Events = ({ onShowEventDetails }) => {
           <span className="event-day">Day 3</span>
           <h3 className="event-title">Cyber Coding  Contest</h3>
           <p className="event-time">10:30 AM - 12:30 PM</p>
-          <p className="event-prize">Prize Pool: ₹3,500</p>
+          <p className="event-prize">Prize Pool: ₹4,500</p>
           <p className="event-description">Identify and fix critical bugs in security-sensitive code with time-pressure challenges</p>
           <button className="event-register">Register</button>
         </div>
