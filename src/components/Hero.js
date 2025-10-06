@@ -27,7 +27,7 @@ const Hero = ({ onRegisterClick }) => {
 
   // Countdown timer logic
   useEffect(() => {
-    const targetDate = new Date('2025-10-23T09:30:00').getTime();
+    const targetDate = new Date('2025-10-22T09:30:00').getTime();
 
     const updateCountdown = () => {
       const now = new Date().getTime();
@@ -130,7 +130,7 @@ const Hero = ({ onRegisterClick }) => {
           </div>
         </div>
       </div>
-      <p className="event-date">🗓️ Events Start on October 23rd, 2025</p>
+      <p className="event-date">🗓️ Events Start on October 22nd, 2025</p>
       <div className="hero-content">
         <div className="terminal">
           <div className="terminal-header">
