@@ -7,27 +7,30 @@ const Coordinators = () => {
       <h3 style={{textAlign:'center', margin:'30px 0', color:'#f0f'}}>Faculty Coordinators</h3>
       <div className="coordinators">
         <div className="coordinator-card">
-          <h4>Dr. Rajesh Kumar</h4>
-          <p>Head of CSE Department</p>
-          <p>📧 hod.cse@vnrvjiet.in</p>
+          <h4>Convenor</h4>
+          <h4>Dr. T. Sunil Kumar</h4>
+          <p>Professor and HoD - Dept.of CSE-(CYS,DS) and AI&DS</p>
         </div>
         <div className="coordinator-card">
-          <h4>Prof. Srinivas Reddy</h4>
-          <p>Club Mentor</p>
-          <p>📧 srinivas@vnrvjiet.in</p>
+          <h4>Mrs. G. Mounika</h4>
+          <p>Assistant Professor - Dept.of CSE-(CYS,DS) and AI&DS</p>
         </div>
         <div className="coordinator-card">
-          <h4>Dr. Priya Sharma</h4>
-          <p>Technical Advisor</p>
-          <p>📧 priya.sharma@vnrvjiet.in</p>
+          <h4>Mrs. G. Usha Rani</h4>
+          <p>Assistant Professor - Dept.of CSE-(CYS,DS) and AI&DS</p>
         </div>
       </div>
       <h3 style={{textAlign:'center', margin:'30px 0', color:'#f0f'}}>Student Coordinators</h3>
       <div className="coordinators">
         <div className="coordinator-card">
-          <h4>Raghavendra Sai</h4>
+          <h4>V. Raghavendra Sai</h4>
           <p>ChairPerson - VJ Garuda Vigilance</p>
           <p>📱 +91-9059494181</p>
+        </div>
+        <div className="coordinator-card">
+          <h4>K. Harsha Vardhan</h4>
+          <p>President - VJ Garuda Vigilance</p>
+          <p>📱 +91-8019252777</p>
         </div>
         
       </div>
