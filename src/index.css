@@ -1160,7 +1160,141 @@ animation-play-state:running;
     text-align:center;
     opacity:0.9;
 }
+/* Coming Soon Modal Styles */
+.coming-soon-container {
+  text-align: center;
+  padding: 20px;
+}
 
+.coming-soon-icon {
+  font-size: 5rem;
+  margin-bottom: 20px;
+  animation: rocketFloat 3s ease-in-out infinite;
+}
+
+@keyframes rocketFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+.coming-soon-title {
+  font-size: 2.5rem;
+  color: #0ff;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  text-shadow: 0 0 20px rgba(0,255,255,0.8);
+}
+
+.coming-soon-message {
+  margin: 30px 0;
+}
+
+.pulse-text {
+  font-size: 2rem;
+  color: #f0f;
+  font-weight: bold;
+  margin-bottom: 15px;
+  animation: textPulse 2s ease-in-out infinite;
+}
+
+@keyframes textPulse {
+  0%, 100% { 
+    transform: scale(1);
+    text-shadow: 0 0 10px rgba(255,0,255,0.5);
+  }
+  50% { 
+    transform: scale(1.05);
+    text-shadow: 0 0 25px rgba(255,0,255,1);
+  }
+}
+
+.sub-message {
+  font-size: 1.3rem;
+  color: #0ff;
+  margin-bottom: 10px;
+  opacity: 0.9;
+}
+
+.stay-tuned {
+  font-size: 1.1rem;
+  color: #ccc;
+  font-style: italic;
+}
+
+.countdown-badge {
+  background: linear-gradient(45deg, #0ff, #f0f);
+  padding: 15px 40px;
+  border-radius: 50px;
+  display: inline-block;
+  margin: 30px 0;
+  animation: badgePulse 2s infinite;
+}
+
+@keyframes badgePulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 0 20px rgba(0,255,255,0.5);
+  }
+  50% {
+    transform: scale(1.08);
+    box-shadow: 0 0 40px rgba(255,0,255,0.8);
+  }
+}
+
+.badge-text {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.event-quick-info {
+  margin-top: 30px;
+  background: rgba(0,255,255,0.05);
+  border: 1px solid #0ff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.info-item {
+  font-size: 1.2rem;
+  color: #fff;
+  margin: 10px 0;
+}
+
+.prize-highlight {
+  color: #f0f;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+@media (max-width: 768px) {
+  .coming-soon-icon {
+    font-size: 4rem;
+  }
+  
+  .coming-soon-title {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  .pulse-text {
+    font-size: 1.5rem;
+  }
+  
+  .sub-message {
+    font-size: 1.1rem;
+  }
+  
+  .badge-text {
+    font-size: 1.2rem;
+  }
+  
+  .countdown-badge {
+    padding: 12px 30px;
+  }
+}
 /* Replace the existing mobile navigation styles with this: */
 
 /* Mobile Navigation Styles */
